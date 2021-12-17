@@ -30,5 +30,5 @@ app.get('/usuarios', (req, res) =>{
     connection.end()
 })
 
-app.listen(4000, ()=>console.log('Hola soy el servidor'))
+//app.listen(4000, ()=>console.log('Hola soy el servidor'))
 
